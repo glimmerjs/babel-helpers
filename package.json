@@ -1,0 +1,19 @@
+{
+  "name": "@glimmer/babel-helpers",
+  "version": "0.1.0",
+  "description": "Babel helpers for @glimmer/build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glimmerjs/babel-helpers.git"
+  },
+  "author": "Cory Forsyth <cory.forsyth@gmail.com> (http://coryforsyth.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glimmerjs/babel-helpers/issues"
+  },
+  "homepage": "https://github.com/glimmerjs/babel-helpers#readme"
+}
