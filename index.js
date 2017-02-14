@@ -10,8 +10,7 @@ const HELPERS = [
   'possibleConstructorReturn',
   'inherits',
   'createClass',
-  'classCallCheck',
-  'taggedTemplateLiteralLoose'
+  'classCallCheck'
 ].map(function (name) {
   const ast = get(name);
   ast.id = t.identifier(name);
